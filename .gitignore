@@ -1,10 +1,10 @@
-# Byte-compiled / optimized / DLL files
+# Ignore the consts.py file
+consts.py
+
+# Ignore the .idea folder
+.idea/
+
+# Ignore the __pycache__ folder
 __pycache__/
-consts.py[cod]
-
-
 
 venv/
-
-
-.idea/
