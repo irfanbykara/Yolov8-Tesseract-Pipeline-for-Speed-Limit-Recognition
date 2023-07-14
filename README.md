@@ -2,7 +2,7 @@
 **This is a python project that recognizes traffic speed limits on the road using ensemble of object detection and ocr techniques.**
 
 This project uses pytorch model that has been trained with yolov8 to detect traffic signs, explicitly speed limit signs. The model is obtained after 200 epochs. 
-After detecting the speed limit signs in the video, process for ocr function is called to do some preprocessing for OCR engine to work correctly.
+After detecting the speed limit signs in the video, process_for_ocr function is called to do some preprocessing for OCR engine to work correctly.
 
 
 ## To run
